@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-07-mockapi-phonebook/static/css/main.cdd6a00c.css",
+    "main.js": "/goit-react-hw-07-mockapi-phonebook/static/js/main.cd5c4407.js",
+    "index.html": "/goit-react-hw-07-mockapi-phonebook/index.html",
+    "main.cdd6a00c.css.map": "/goit-react-hw-07-mockapi-phonebook/static/css/main.cdd6a00c.css.map",
+    "main.cd5c4407.js.map": "/goit-react-hw-07-mockapi-phonebook/static/js/main.cd5c4407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd6a00c.css",
+    "static/js/main.cd5c4407.js"
+  ]
+}
